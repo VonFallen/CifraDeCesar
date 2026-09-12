@@ -2,7 +2,7 @@ Cifra de César em C
 
 Um projeto simples em C para praticar lógica de programação usando a Cifra de César.
 
-O programa recebe um texto e uma chave e desloca as letras pelo alfabeto.
+O programa recebe uma palavra e uma chave e desloca as letras pelo alfabeto.
 
 casa + 3 = fdvd
 
